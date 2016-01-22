@@ -1,0 +1,9 @@
+<!--
+  ~ Copyright (c) This app and all it's contents belong to jwarrior319( Jeremy Davis) unless otherwise noted.
+  -->
+
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="action_settings">Settings</string>
+    <string name="Hello_World">Hello Mrs. Grassel</string>
+</resources>
